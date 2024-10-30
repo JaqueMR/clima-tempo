@@ -5,6 +5,7 @@
 }
 
 body {
+   background-color: red; /* Adicione isso para ver se o CSS está sendo aplicado */
     background-image: url("../image/sky.jpg");
     display: flex;
     justify-content: center;
