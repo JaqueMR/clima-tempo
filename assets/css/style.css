@@ -19,8 +19,8 @@ body {
 }
 
 .container {
-    background-color: rgba(92, 84, 237, 0.9);
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: rgba(15, 139, 240, 0.5); 
+    box-shadow: 0px 3px 8px rgba(117, 169, 211, 0.5); 
     padding: 2rem;
     color: #ffffff;
     border-radius: 1rem;
